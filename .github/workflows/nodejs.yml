@@ -1,4 +1,4 @@
-languageCode:           "awt.*"
+languageCode:           "Nodejs"
 title:                  "Bootstrap"
 baseURL:                "https://getbootstrap.com"
 enableInlineShortcodes: true
