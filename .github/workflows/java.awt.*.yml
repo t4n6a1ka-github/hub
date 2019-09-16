@@ -1,4 +1,4 @@
-languageCode:           "en"
+languageCode:           "awt.*"
 title:                  "Bootstrap"
 baseURL:                "https://getbootstrap.com"
 enableInlineShortcodes: true
@@ -45,7 +45,7 @@ params:
   current_version:      "4.3.1"
   current_ruby_version: "4.3.1"
   docs_version:         "4.3"
-  repo:                 "https://github.com/twbs/bootstrap"
+  repo:                 "https://github.com/t4n6a1ka/bootstrap"
   twitter:              "getbootstrap"
   slack:                "https://bootstrap-slack.herokuapp.com/"
   opencollective:       "https://opencollective.com/bootstrap"
